@@ -1,0 +1,63 @@
+/*Login Part*/
+#login-part{
+    background:#ffffff; 
+}
+#login-part .container{
+    padding:40px 20px; 
+}
+#login-part .login-block{
+    padding:20px 20px;
+}
+#login-part .login-content{
+    padding:20px 50px;
+    border-radius:4px; 
+    box-shadow: 0px 0px 5px 1px rgba(0, 0, 0, 0.2);
+}
+
+/*Dashboard Part*/
+#dashboard-part .count-block{
+	border-radius:5px;
+	background:#e9ecef; 
+	border:1px solid #fafafa;
+}
+#dashboard-part .count-block .count-content{
+	padding:0px 10px 0px 5px;
+	border-top-right-radius:5px; 
+	border-top-left-radius:5px; 
+}
+#dashboard-part .count-block .count-icon .fas{
+	color:#ffffff; 
+}
+#dashboard-part .count-block .count-detail h4{
+	color:#ffffff;
+	font-size:22px;  
+}
+#dashboard-part .count-block .count-detail p{
+	color:#ffffff;
+	font-size:14px;  
+}
+#dashboard-part .count-block .count-header p{
+	font-size:16px;  
+}
+
+/*Bank Part*/
+#bank-part .user-name-content{
+    width:80%;
+    max-height:176px;
+    overflow-y:auto;  
+    border-radius:6px;
+    position:absolute;
+    background:#ffffff;
+    box-shadow:0px 5px 5px 0px rgba(0, 0, 0, 0.1);
+}
+#bank-part .user-name-content p{
+    padding:5px 5px;
+    background:#ffffff;
+    border-bottom:1px solid #fafafa; 
+}
+#bank-part .user-name-content p:hover{
+    background:#fafafa;
+}
+
+
+
